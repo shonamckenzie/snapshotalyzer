@@ -26,4 +26,7 @@ Rather than clone the repo, distribution package has been created and is availab
 
 `shotty --help` gives you the list of commands available
 
+
+## Credit
+
 This project was created using the [A Cloud Guru Python](https://acloud.guru/learn/python-for-beginners?_ga=2.238331974.758725971.1589876596-1463944726.1585083415&_gac=1.219418475.1589372453.CjwKCAjwte71BRBCEiwAU_V9h1rXUgFhbAvYDr1_zBU2abhWpgSNriH94J7kXTklHGxmDXFvLuuwUxoCkBQQAvD_BwE) course by Robin Norwood
